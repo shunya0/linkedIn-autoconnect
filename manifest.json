@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Autoconnect",
+  "description": "An extension which takes care of expanding your network on LinkedIn",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "static/linkedin-48.png"
+  }
+}
